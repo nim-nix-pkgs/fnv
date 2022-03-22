@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-fnv-master.flake = false;
+  inputs.src-fnv-master.ref   = "refs/heads/master";
   inputs.src-fnv-master.owner = "ryukoposting";
-  inputs.src-fnv-master.ref   = "master";
   inputs.src-fnv-master.repo  = "nim-fnv";
   inputs.src-fnv-master.type  = "gitlab";
   
