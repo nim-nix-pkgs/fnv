@@ -11,6 +11,7 @@
   inputs.src-fnv-master.ref   = "refs/heads/master";
   inputs.src-fnv-master.owner = "ryukoposting";
   inputs.src-fnv-master.repo  = "nim-fnv";
+  inputs.src-fnv-master.dir   = "";
   inputs.src-fnv-master.type  = "gitlab";
   
   inputs."stint".owner = "nim-nix-pkgs";
