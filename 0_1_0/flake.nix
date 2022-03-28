@@ -11,7 +11,6 @@
   inputs.src-fnv-0_1_0.ref   = "refs/tags/0.1.0";
   inputs.src-fnv-0_1_0.owner = "ryukoposting";
   inputs.src-fnv-0_1_0.repo  = "nim-fnv";
-  inputs.src-fnv-0_1_0.dir   = "";
   inputs.src-fnv-0_1_0.type  = "gitlab";
   
   inputs."stint".owner = "nim-nix-pkgs";
