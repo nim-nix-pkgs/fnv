@@ -37,23 +37,23 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-fnv-master": "src-fnv-master",
+        "src-fnv-devel": "src-fnv-devel",
         "stint": "stint"
       }
     },
-    "src-fnv-master": {
+    "src-fnv-devel": {
       "flake": false,
       "locked": {
-        "lastModified": 1551586382,
-        "narHash": "sha256-4nZIGQZ16fImYL19B4SJgRKkyu2UQYnN3S9kBdHLkFc=",
+        "lastModified": 1552174440,
+        "narHash": "sha256-WG2RCzWjdt9mLNSeO4tbteqBdi4mAuNiuA8j53QLkmE=",
         "owner": "ryukoposting",
         "repo": "nim-fnv",
-        "rev": "5769537f8e7b2b4f540cf2d702f52561ff4cac46",
+        "rev": "fe0a9c186fb1286141da348697199d381b25d1d9",
         "type": "gitlab"
       },
       "original": {
         "owner": "ryukoposting",
-        "ref": "refs/heads/master",
+        "ref": "refs/heads/devel",
         "repo": "nim-fnv",
         "type": "gitlab"
       }
